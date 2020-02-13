@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>5-590.jpg</filename>
+    <path>/home/suhail/python-projects/pan_card_training_data/pancard/scripts/images/5-590.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>460</width>
+        <height>460</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pancard</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>77</ymin>
+            <xmax>403</xmax>
+            <ymax>409</ymax>
+        </bndbox>
+    </object>
+</annotation>
